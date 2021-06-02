@@ -9,7 +9,7 @@ import { BigNumber } from "@ethersproject/bignumber";
 
 const { deployContract } = waffle;
 
-const WBNB = "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c";
+const WBNB = "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270";
 
 describe("Dac", () => {
   let dac: Dac;

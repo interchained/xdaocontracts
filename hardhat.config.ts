@@ -30,6 +30,12 @@ export default {
       gasPrice: 20000000000,
       accounts: [process.env.PRIVATE_KEY],
     },
+
+    polygon_mainnet: {
+      url: "https://rpc-mainnet.maticvigil.com/",
+      chainId: 137,
+      accounts: [process.env.PRIVATE_KEY],
+    },
   },
 
   solidity: {
