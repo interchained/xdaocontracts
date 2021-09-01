@@ -1,5 +1,5 @@
-# xDAO Contracts Repository
-
+# Electronero Network: xFarm Contracts Repository
+forked from xDAO
 ### Docs
 
 https://modagavr.gitbook.io/xdao-contracts/
