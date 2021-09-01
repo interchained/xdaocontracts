@@ -1,4 +1,4 @@
-# Electronero Network: xFarm Contracts Repository
+# ElectroneroDAO: xFarm Contracts Repository
 forked from xDAO
 ### Docs
 
